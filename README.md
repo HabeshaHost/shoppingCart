@@ -56,3 +56,4 @@ Natalia Migas http://webdevnatalia.com/
 ## License
 
 This project is licensed under the MIT License
+# shoppingCart
